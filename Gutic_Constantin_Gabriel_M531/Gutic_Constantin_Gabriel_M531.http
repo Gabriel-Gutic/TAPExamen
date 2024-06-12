@@ -1,0 +1,6 @@
+@Gutic_Constantin_Gabriel_M531_HostAddress = http://localhost:5071
+
+GET {{Gutic_Constantin_Gabriel_M531_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
